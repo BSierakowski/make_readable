@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Make Readable",
+  "version": "1.0",
+  "description": "A simple Chrome extension to make webpages more readable.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
